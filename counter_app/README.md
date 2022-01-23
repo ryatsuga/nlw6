@@ -3,3 +3,5 @@
 Projeto App Contador. #NLW6
 
 ## Getting Started
+
+flutter create .
